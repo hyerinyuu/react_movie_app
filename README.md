@@ -12,3 +12,5 @@
 * 2020-06-15
 >* React Router and path and Link
 >* How to build React project with github
+
+* [wanna see my works?](https://hyerinyuu.github.io/react_movie_app/)
